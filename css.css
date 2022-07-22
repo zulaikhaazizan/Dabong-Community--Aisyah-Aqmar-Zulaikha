@@ -1,0 +1,23 @@
+/*CSS Layout */
+
+
+
+/Main Background/.page {background-color:#130d06; width: 80%; margin:auto; padding:10px;}
+
+
+/Header Section/.main header {background-color:#891515;}
+
+.social-sites li {display:inline;
+	position:relative;
+	left:1000px;
+	top:-50px;}
+
+    /Main + Sidebar Background/.container {background-color:#640909; padding:10px;}
+
+
+    /Main Section/.main {background-color:  #d38484; width: 70%; float:left;}
+    
+    
+    /Sidebar Section/.sidebar {background-color:#ffcccc;  width: 30%; float:right;}
+    
+    /Footer Section/.main-footer {background-color:#640909; clear:both;}
